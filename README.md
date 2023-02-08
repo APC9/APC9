@@ -6,7 +6,6 @@ Me apasiona todo lo relacionado con el mundo de la programación y la creativida
 
 Habilidades: REACT / JS / HTML / CSS 
 
-- 🔭 Estoy trabajando en this page. 
 - 🌱 Estoy aprendiendo NEXT.js / Node and EXPRESS 
 
 
