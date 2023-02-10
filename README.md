@@ -1,6 +1,6 @@
 ### Hola 👋, Mi nombre es Alberto
 #### Jr. FrontEnd Developer  con React.
-![Jr. FrontEnd Developer  con React.](https://scontent.fsvq2-2.fna.fbcdn.net/v/t1.6435-9/95902866_10158379814184402_8502949383858290688_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8631f5&_nc_ohc=iHRunBFyxYkAX8A7V9p&_nc_ht=scontent.fsvq2-2.fna&oh=00_AfAhha5HBA2WyfTQMEpHub2gREdRO1oQdtPPAhPXgZQAbQ&oe=640DDC0E)
+![Jr. FrontEnd Developer  con React.](https://www.freewebsolution.it/wp-content/uploads/2019/12/react.jpg)
 
 Me apasiona todo lo relacionado con el mundo de la programación y la creatividad digital.
 
