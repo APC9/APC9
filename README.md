@@ -15,5 +15,4 @@ Habilidades: REACT / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=APC9)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/APC9)  
 
