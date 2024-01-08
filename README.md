@@ -6,7 +6,7 @@ Me apasiona todo lo relacionado con el mundo de la programación y la creativida
 
 Habilidades: Angular / JS / HTML / CSS / Nestjs / docker 
 
-- 🌱 Estoy aprendiendo NEXT.js / Node and EXPRESS 
+- 🌱 Estoy aprendiendo Kubbernetes 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/APC9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in//alberto-antonio-peña-castillo-45bb1225a//)  
