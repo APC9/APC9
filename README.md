@@ -1,10 +1,10 @@
 ### Hola 👋, Mi nombre es Alberto
-#### Jr. FrontEnd Developer  con React.
+#### Jr. FrontEnd Developer  con Angular - Nestjs - Microservices.
 ![Jr. FrontEnd Developer  con React.](https://www.freewebsolution.it/wp-content/uploads/2019/12/react.jpg)
 
 Me apasiona todo lo relacionado con el mundo de la programación y la creatividad digital.
 
-Habilidades: REACT / JS / HTML / CSS 
+Habilidades: Angular / JS / HTML / CSS / Nestjs / docker 
 
 - 🌱 Estoy aprendiendo NEXT.js / Node and EXPRESS 
 
